@@ -40,7 +40,6 @@ def criptografia(texto):
             arquivo_ransom.writelines(texto)
             arquivo_ransom.close()
 
-            
 
 def descriptografa():
     """
