@@ -41,7 +41,6 @@ def criptografia(texto):
             arquivo_ransom.close()
             
 
-
 def descriptografa():
     """
     Função para descriptografar os arquivos
