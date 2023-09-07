@@ -39,6 +39,7 @@ def criptografia(texto):
             arquivo_ransom = open('README_ranson.txt', 'w')
             arquivo_ransom.writelines(texto)
             arquivo_ransom.close()
+            
 
 
 def descriptografa():
